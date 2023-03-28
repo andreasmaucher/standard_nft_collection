@@ -1,0 +1,1 @@
+# standard_nft_collection
